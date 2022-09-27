@@ -4,7 +4,7 @@ import pandas as pd
 import pathlib
 import bruteforce
 SIZE = 8
-ITERATIONS = 1
+ITERATIONS = 10
 def main():
     print('.: N-Queens Problem :.')
     if not SIZE:
